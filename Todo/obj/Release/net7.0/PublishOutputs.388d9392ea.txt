@@ -1,0 +1,5 @@
+C:\Users\Ahmed\source\repos\Todo\Todo\bin\Release\net7.0\app.publish\Todo.exe
+C:\Users\Ahmed\source\repos\Todo\Todo\bin\Release\net7.0\app.publish\Todo.dll
+C:\Users\Ahmed\source\repos\Todo\Todo\bin\Release\net7.0\app.publish\Todo.deps.json
+C:\Users\Ahmed\source\repos\Todo\Todo\bin\Release\net7.0\app.publish\Todo.runtimeconfig.json
+C:\Users\Ahmed\source\repos\Todo\Todo\bin\Release\net7.0\app.publish\Todo.pdb
